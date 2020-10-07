@@ -1,3 +1,8 @@
+CREATE DATABASE MegaCasting
+GO
+
+USE MegaCasting
+GO
 
 /*------------------------------------------------------------
 -- Table: USER
